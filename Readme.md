@@ -1,7 +1,7 @@
-# Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Сергей Ревенко](https://up.htmlacademy.ru/adaptive/8/user/236819).
-* Наставник: `Неизвестно`.
+* Наставник: `Мария Белогубова`.
 
 ---
 
